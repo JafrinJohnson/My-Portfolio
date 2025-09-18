@@ -1,0 +1,24 @@
+.about-section {
+  padding: 60px;
+  text-align: center;
+  background-color: #f6f4f4; /* light background */
+}
+
+.about-section h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  color: #141010;
+}
+
+.about-box {
+  display: inline-block;
+  background-color: #d2e4f0; /* green box */
+  color: rgb(8, 7, 7);
+  padding: 40px 50px; /* bigger padding */
+  border-radius: 20px;
+  font-size: 20px; /* bigger text */
+  line-height: 1.8;
+  max-width: 800px;
+  text-align: left;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
